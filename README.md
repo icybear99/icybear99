@@ -63,4 +63,10 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
 </div>
 
----
+<br>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icybear99&radius=16&theme=react&area=false&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
